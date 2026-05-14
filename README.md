@@ -27,7 +27,7 @@ architecture with Swin Transformer Tiny backbone.
 
 | Split      | F1     | IoU    | Precision | Recall |
 |------------|--------|--------|-----------|--------|
-| Validation | 0.8467 | 0.7342 | —         | —      |
+| Validation | 0.8467 | 0.7342 | 0.8011    |0.9019  |
 | Test       | 0.5818 | 0.4102 | 0.5333    | 0.6399 |
 
 ---
